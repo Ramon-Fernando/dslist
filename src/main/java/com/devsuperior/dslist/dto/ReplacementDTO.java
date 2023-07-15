@@ -3,23 +3,19 @@ package com.devsuperior.dslist.dto;
 public class ReplacementDTO {
 
 	private Integer sourceIndex;
-	private Integer destionationIndex;
+	private Integer destinationIndex;
 	
 	public Integer getSourceIndex() {
 		return sourceIndex;
 	}
-	
 	public void setSourceIndex(Integer sourceIndex) {
 		this.sourceIndex = sourceIndex;
 	}
-	
-	public Integer getDestionationIndex() {
-		return destionationIndex;
+	public Integer getDestinationIndex() {
+		return destinationIndex;
 	}
-	
-	public void setDestionationIndex(Integer destionationIndex) {
-		this.destionationIndex = destionationIndex;
+	public void setDestinationIndex(Integer destinationIndex) {
+		this.destinationIndex = destinationIndex;
 	}
-	
 	
 }
