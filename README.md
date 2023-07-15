@@ -36,14 +36,17 @@ Projeto de estudo desenvolvido durante o "Intensivão Java Spring" ministrado pe
 * ``Spring Tools 4 for Eclipse``
 * ``Railway``
 
+## Modelo de Domínio
+![dominio](https://i.imgur.com/cp4G3Q1.png)
+
 ## Exemplo de GET
 ![postman](https://i.imgur.com/kvAmr2a.png)
 
 ## Exemplo de POST
 
-![postmandois](https://i.imgur.com/3lv3tMe.png)
+![h2prepost](https://i.imgur.com/3lv3tMe.png)
 
-![postmantres](https://i.imgur.com/quF9tOp.png)
+![postmandois](https://i.imgur.com/quF9tOp.png)
 
-![postmanquatro](https://i.imgur.com/40NF653.png)
+![h2pospost](https://i.imgur.com/40NF653.png)
 
